@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Activator
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Yeah
+    uniqueID: 1378742935
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Buttos
+    uniqueID: 2186440721
+    locked: 0
+  - name: Arrows
+    uniqueID: 3618119057
+    locked: 0
+  - name: TypeofHit
+    uniqueID: 1565050885
+    locked: 0
+  - name: DR MIKE!!
+    uniqueID: 660002709
+    locked: 0
+  - name: Amber Anim
+    uniqueID: 2756024201
+    locked: 0
+  - name: dr ed
+    uniqueID: 1427520689
+    locked: 0
